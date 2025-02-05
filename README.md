@@ -9,7 +9,7 @@ check endpoint to validate container functionality.
 - Clone repository:
 
 ```bash
-git clone https://github.com/your-username/ecs-health-check-example.git
+git clone https://github.com/eoin-mccartan/ecs-health-check-example.git
 ```
 
 - Install dependencies:
